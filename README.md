@@ -1,1 +1,1 @@
-# tanzu-kafka-service
+# tanzu-redis-service
